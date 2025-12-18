@@ -1,0 +1,155 @@
+VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Engenheiro(a) de Dados:
+
+Construir e manter pipelines de dados escaláveis
+
+Criar e otimizar arquiteturas de dados (ETL/ELT)
+
+Trabalhar com times de negócio para entender necessidades de dados
+
+Garantir qualidade, segurança e governança dos dados
+
+Integrar dados de múltiplas fontes e preparar bases para Data Science e IA
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Programação para dados (Python ou SQL avançado)
+
+Arquitetura de dados e pipelines
+
+Modelagem de dados e bancos relacionais/não-relacionais
+
+NICE-TO-HAVE (complementares):
+
+Conceitos de MLOps e IA aplicada
+
+Comunicação técnica com stakeholders
+
+FERRAMENTAS E TECNOLOGIAS:
+
+SQL
+
+Python
+
+Cloud (AWS, Azure ou GCP)
+
+Spark
+
+Airflow
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 2 horas/semana (ritmo reduzido e foco no essencial)
+
+MÊS 1 – FUNDAMENTOS
+SEMANA 1-2:
+
+Revisar SQL avançado (joins, window functions, CTEs)
+
+Estudar fundamentos de arquitetura de dados (batch vs streaming)
+
+SEMANA 3-4:
+
+Praticar Python para manipulação de dados (Pandas)
+
+Entender conceitos de ETL/ELT e boas práticas
+
+MÊS 2 – PRÁTICA
+SEMANA 5-6:
+
+Criar um pipeline simples usando Python + SQL
+
+Estudar conceitos de Data Lakes e Data Warehouses
+
+SEMANA 7-8:
+
+Introdução a Spark (conceitos + primeiros scripts)
+
+Entender orquestração com Airflow (conceito + DAG simples)
+
+MÊS 3 – PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Construir pipeline completo (ingestão → transformação → carga)
+
+Criar documentação clara e visual do fluxo
+
+SEMANA 11-12:
+
+Preparar currículo focado em transição
+
+Treinar entrevistas técnicas e comportamentais
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Pipeline de Dados para Análise de Tendências
+
+O QUE FAZER:  
+Criar um pipeline completo que coleta dados públicos (ex: clima, preços, tráfego), transforma, armazena e disponibiliza para análise. Pode incluir um pequeno módulo de IA (ex: previsão simples).
+
+ENTREGÁVEIS:
+
+Pipeline funcional (Python + SQL + orquestração)
+
+Data Lake organizado
+
+Dashboard simples mostrando insights
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Pipeline executa automaticamente
+
+Dados limpos e organizados
+
+Documentação clara e replicável
+
+DICA:  
+Use dados públicos simples para não perder tempo com coleta complexa.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: “Explique um pipeline de dados que você já construiu.”
+COMO RESPONDER:
+
+Contexto → Problema → Solução → Tecnologias → Resultado
+
+PERGUNTA 2: “Como você lida com dados sujos ou inconsistentes?”
+COMO RESPONDER:
+
+Identificação → Regras de limpeza → Validação → Automação
+
+PERGUNTA 3: “Qual a diferença entre Data Lake e Data Warehouse?”
+COMO RESPONDER:
+
+Lake: dados brutos e flexíveis
+
+Warehouse: dados estruturados para análise
+
+PERGUNTA 4: “Como garantir qualidade dos dados?”
+COMO RESPONDER:
+
+Testes, validações, monitoramento e versionamento
+
+PERGUNTA 5: “Como você trabalha com outras equipes?”
+COMO RESPONDER:
+
+Comunicação clara → alinhamento de requisitos → entregas iterativas
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Engenheiro de Dados
+
+POR QUE ESSA TRILHA:  
+Cobre fundamentos, prática e projetos reais, alinhados com pipelines, cloud e arquitetura — exatamente o que você precisa para transição.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por “Formação Engenheiro de Dados”
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Com apenas 2h por semana, o segredo é consistência absoluta.
+Se quiser, posso adaptar o plano para 6 meses, sugerir materiais ou detalhar o projeto.
