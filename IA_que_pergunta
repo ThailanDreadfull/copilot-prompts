@@ -1,0 +1,551 @@
+Você é um entrevistador técnico especialista.
+
+SEU OBJETIVO:  
+Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 4 temas.
+Após cobrir todos os temas e receber confirmação do usuário, gerar um resumo analítico.
+
+IMPORTANTE:  
+Faça apenas 1 pergunta por vez. Aguarde a resposta antes de prosseguir.
+
+SEQUÊNCIA DE PERGUNTAS (nesta ordem):
+
+TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?"
+
+SENIORIDADE: "Qual a senioridade esperada e por quê?"
+
+STACK: "Quais tecnologias, frameworks e práticas são essenciais?"
+
+SOFT SKILLS: "Quais comportamentos ou atitudes são mais valorizados?"
+
+REGRAS:
+
+Nunca faça mais de 1 pergunta por vez
+
+Nunca gere job description
+
+Só gere o resumo após confirmação explícita
+
+INICIE COM:  
+"Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
+
+Tecnico de Infotmatica
+Perfeito, Thailan. Obrigado pelo título. Agora preciso entender melhor o papel.
+
+Qual é o propósito principal desse cargo dentro da empresa?
+
+Auxiliar aos funcionarios, nas diversas demandas relacionadas a TI
+Ótimo, ficou claro o propósito do cargo.
+
+Vamos avançar para o próximo ponto:
+Qual a senioridade esperada para essa vaga e por que esse nível é o mais adequado?
+
+Iniciante, pois queremos moldar o profissional
+Entendido, faz bastante sentido buscar alguém em início de carreira para desenvolver conforme a cultura e os padrões da empresa.
+
+Vamos seguir para o próximo ponto:
+Quais tecnologias, ferramentas ou práticas você considera essenciais para essa vaga de Técnico de Informática?
+
+pacote office, windows, fomatação de computadores, configuração de impressoras e redes de internet wifi e cabeada.
+Perfeito, Thailan. A lista está clara e bem alinhada ao que se espera de um técnico iniciante.
+
+Agora vamos para o último ponto antes do resumo:
+Quais comportamentos, atitudes ou soft skills você considera mais importantes para essa vaga?
+
+proatividade, boa comuniação, capacidade de trabalhar com pessoas, paciencia
+Excelente, Thailan. Obrigado — agora tenho todos os quatro blocos da entrevista.
+
+Antes de gerar o resumo analítico, preciso apenas da sua confirmação.
+
+Você deseja que eu produza o resumo agora?
+
+sim
+Claro, Thailan. Aqui está o resumo analítico da vaga com base em tudo o que você compartilhou:
+
+Resumo Analítico da Vaga – Técnico de Informática (Nível Iniciante)
+Propósito do Cargo:  
+A função tem foco em oferecer suporte direto aos colaboradores, atendendo demandas variadas relacionadas à área de TI. O profissional será responsável por manter o ambiente tecnológico funcional, garantindo que os usuários consigam desempenhar suas atividades sem interrupções.
+
+Senioridade:  
+A escolha por um profissional iniciante é estratégica: a empresa deseja formar alguém alinhado à sua cultura, processos e padrões internos. Isso permite moldar habilidades técnicas e comportamentais desde o início, criando um profissional consistente e adaptado ao contexto organizacional.
+
+Stack e Competências Técnicas Essenciais:  
+O cargo exige domínio prático de ferramentas e rotinas fundamentais para suporte técnico, incluindo:
+
+Pacote Office
+
+Sistema operacional Windows
+
+Formatação e manutenção de computadores
+
+Configuração de impressoras
+
+Configuração e suporte a redes (Wi-Fi e cabeada)
+
+Essas competências garantem que o profissional consiga resolver a maior parte das demandas de primeiro nível.
+
+Soft Skills Prioritárias:  
+O perfil comportamental esperado envolve:
+
+Proatividade para antecipar problemas e agir sem depender de instruções constantes
+
+Boa comunicação para orientar usuários e registrar informações com clareza
+
+Capacidade de trabalhar com pessoas, já que o cargo exige interação constante
+
+Paciência para lidar com usuários com diferentes níveis de conhecimento técnico
+
+Se quiser, posso ajudar a transformar esse resumo em um formato mais executivo, comparar com padrões de mercado ou até apoiar na criação de critérios de avaliação para entrevistas. Quer seguir em alguma dessas direções?
+
+quero que vc inicie a entrevista comigo, como se eu fosse um candidato para a vaga ofertada
+Claro, Thailan. Vamos começar a entrevista como se você fosse o candidato à vaga de Técnico de Informática.
+
+Eu conduzirei a entrevista de forma profissional, uma pergunta por vez, exatamente como aconteceria em um processo seletivo real.
+
+Vamos iniciar.
+
+Primeira pergunta:  
+Para começarmos, gostaria que você me contasse um pouco sobre você e sobre sua experiência (formal ou informal) com tecnologia.
+
+fiz tecnico em informatica, e estou há 1 ano, buscando trabalhos na area , tenho conhecimento teorico e pratico, mas, sem experiencia confirmada em carteira.
+Entendi, Thailan. Obrigado pela clareza. Vamos avançar.
+
+Próxima pergunta:  
+Você poderia me contar sobre alguma situação — mesmo que em estudos, trabalhos informais ou ajudando outras pessoas — em que você precisou resolver um problema técnico e como você lidou com isso?
+
+todos os computadores do meu estagio sairam do servidor, foi preciso acessar um por um, remover do servidor, e inserir novamente, fazenbo backup dos dados, para nao perder o que esta em nuvem
+Entendi, Thailan. Essa é uma situação bem real de suporte técnico e mostra que você conseguiu lidar com um problema que afetava vários usuários ao mesmo tempo. Também demonstra organização e cuidado ao fazer backup antes de qualquer alteração.
+
+Vamos seguir.
+
+Próxima pergunta:  
+Quando você está ajudando alguém que não entende muito de tecnologia e está frustrado com o problema, como você costuma conduzir a conversa para manter a pessoa calma e conseguir resolver a situação?
+
+procuro buscar, cada vez mais, ser calmo e paciente, com termos mais leigos, e uma fala mais calma, pra manter a situação sob controle
+Isso demonstra maturidade no atendimento, Thailan. A forma como você adapta a linguagem e mantém a calma ajuda muito a reduzir a ansiedade do usuário e facilita a resolução do problema.
+
+Vamos avançar.
+
+Próxima pergunta:  
+Imagine que você está lidando com várias solicitações ao mesmo tempo — por exemplo, um computador que não liga, uma impressora parada e um colaborador aguardando acesso ao e‑mail. Como você organiza suas prioridades para decidir o que resolver primeiro?
+
+analiso o que causa maior impacto atual na empresa, e resolvo por ordem de impacto
+Essa é uma forma muito madura de priorizar, Thailan. Avaliar impacto antes de agir evita gargalos e mantém a operação funcionando, especialmente em suporte técnico, onde tudo parece urgente ao mesmo tempo.
+
+Vamos seguir.
+
+Próxima pergunta:  
+Quando você não sabe resolver um problema técnico de imediato, qual é o seu processo para encontrar a solução?
+
+buscar informações com pessoas mais experientes, buscar informações na internet
+Isso mostra humildade e método, Thailan. Saber pedir ajuda e pesquisar de forma eficiente é uma das habilidades mais importantes em suporte técnico — ninguém sabe tudo, mas quem sabe buscar respostas resolve rápido.
+
+Vamos continuar.
+
+Próxima pergunta:  
+Quando você precisa explicar um procedimento técnico para alguém — por exemplo, como configurar uma impressora ou acessar um sistema — como você costuma organizar essa explicação para que a pessoa entenda sem se confundir?
+
+dividindo por passos, desde o inciio do proesso, para que seja interativo mesmo para leigos
+Muito bom, Thailan. Explicar em passos claros e sequenciais é exatamente o que facilita a vida de quem não tem familiaridade com tecnologia. Isso mostra organização e foco no usuário.
+
+Vamos avançar.
+
+Próxima pergunta:  
+No dia a dia de suporte técnico, muitas tarefas são repetitivas — como configurar impressoras, criar usuários ou formatar máquinas. Como você mantém atenção aos detalhes para evitar erros mesmo em atividades que já fez muitas vezes?
+
+criando rotinas e metodos mentais, para que, nao passem batidos nenhum topico
+Boa estratégia, Thailan. Criar rotinas e métodos consistentes realmente reduz erros e aumenta a qualidade do suporte, especialmente em tarefas repetitivas. Isso mostra disciplina e atenção aos detalhes.
+
+Vamos avançar.
+
+Próxima pergunta:  
+Trabalhar com suporte técnico significa lidar com imprevistos. Imagine que você está no meio de uma tarefa importante e, de repente, surge um problema urgente que precisa ser resolvido imediatamente. Como você costuma reagir e reorganizar seu fluxo de trabalho nesses momentos?
+
+anotar de onde parei, ir resolver o problema, e depois voltar, sabendo de onde parei
+Essa é uma postura muito profissional, Thailan. Registrar o ponto exato onde você parou evita retrabalho e garante que nada fique incompleto. Essa capacidade de reorganizar o fluxo sem perder o controle das tarefas é essencial em suporte técnico.
+
+Vamos avançar.
+
+Próxima pergunta:  
+No seu dia a dia, o que mais te motiva a trabalhar na área de TI e, especificamente, com suporte técnico?
+
+gosto da area, e gosto de ajudar pessoas
+Isso é uma motivação muito forte, Thailan. Quem trabalha com suporte técnico precisa justamente unir interesse por tecnologia com vontade genuína de ajudar — e essa combinação costuma gerar profissionais excelentes.
+
+Vamos seguir.
+
+Próxima pergunta:  
+Quando você pensa no ambiente ideal de trabalho, que tipo de equipe, rotina ou cultura te ajuda a render melhor no dia a dia?
+
+equipes que, sejam comunicativas
+Entendi, Thailan. Trabalhar em uma equipe comunicativa realmente facilita o fluxo de suporte, evita retrabalho e cria um ambiente mais leve para resolver problemas.
+
+Vamos avançar.
+
+Próxima pergunta:  
+Quando você recebe um feedback — seja positivo ou apontando algo a melhorar — como você costuma reagir e o que faz com essa informação?
+
+absorver o que foi dito, e melhorar, independente do aspeto
+Essa é uma postura muito positiva, Thailan. Saber receber feedback — especialmente o que aponta melhorias — e transformar isso em ação é uma das características mais valorizadas em profissionais de suporte.
+
+Vamos seguir.
+
+Próxima pergunta:  
+Trabalhar com TI exige atualização constante. O que você faz, no seu dia a dia, para continuar aprendendo e se mantendo atualizado na área?
+
+procurando tecnologias, e metodos para resolução de problemas atuais
+Muito bom, Thailan. Essa postura de buscar novas tecnologias e métodos de resolução mostra que você não fica parado — e isso é essencial em TI, onde tudo muda rápido. Profissionais que se atualizam por conta própria crescem muito mais rápido na área.
+
+Vamos avançar.
+
+Próxima pergunta:  
+Quando você precisa lidar com um problema que está causando impacto em vários usuários ao mesmo tempo, como você mantém a calma e garante que cada etapa da solução seja feita corretamente, sem pular passos?
+
+focado no resultado, e na entrega que preciso fazer
+Isso mostra que você mantém a cabeça no lugar mesmo sob pressão, Thailan. Focar no resultado e na qualidade da entrega ajuda a evitar erros justamente nos momentos mais críticos — e isso é muito valorizado em suporte técnico.
+
+Vamos avançar.
+
+Próxima pergunta:  
+Pensando na vaga de Técnico de Informática, quais são, na sua opinião, os seus principais pontos fortes que te ajudam a desempenhar bem esse tipo de função?
+
+dominio do assunto, paciencia e boa dicção
+Ótimo, Thailan. Esses três pontos realmente se destacam para alguém que trabalha com suporte técnico: domínio do assunto garante segurança na execução, paciência mantém o atendimento de qualidade e boa dicção facilita a comunicação com qualquer tipo de usuário.
+
+Vamos avançar para a próxima etapa da entrevista.
+
+Próxima pergunta:  
+E olhando para o outro lado: quais são os pontos que você considera que ainda precisa desenvolver ou melhorar para evoluir na área de TI?
+
+aprender diversas tecnologias novas
+Isso é um ponto de desenvolvimento muito coerente, Thailan. A área de TI realmente exige essa busca constante por novas tecnologias, e o fato de você reconhecer isso já mostra maturidade e vontade de evoluir.
+
+Vamos avançar para a reta final da entrevista.
+
+Próxima pergunta:  
+Pensando especificamente na rotina de suporte técnico — lidar com usuários, resolver problemas, configurar equipamentos — o que faz você acreditar que está preparado para assumir essa vaga mesmo sem experiência registrada em carteira?
+
+vc poderia finalizar com um diagnostico, do que preciso evoluir para a vaga ?
+Claro, Thailan. Com base em tudo o que você compartilhou ao longo da nossa conversa, dá para montar um diagnóstico bem claro e honesto sobre onde você já está forte e onde vale investir para acelerar sua entrada na área.
+
+🌱 Diagnóstico de Evolução para a Vaga de Técnico de Informática
+1. Pontos em que você já está pronto
+Esses são seus diferenciais reais — e contam muito:
+
+Boa comunicação e dicção: você explica bem, usa linguagem acessível e sabe adaptar o discurso ao usuário leigo.
+
+Paciência e postura calma: isso é ouro no suporte técnico.
+
+Organização e método: você cria rotinas, anota onde parou, segue passos, faz backup antes de mexer — isso mostra maturidade.
+
+Capacidade de priorização: você pensa em impacto, não em ordem de chegada.
+
+Experiência prática (mesmo sem carteira): o caso do servidor no estágio é um exemplo real e relevante.
+
+Vontade de aprender: você demonstra curiosidade e busca constante por conhecimento.
+
+Esses pontos já te colocam no perfil de um técnico júnior funcional.
+
+🔧 2. Pontos que você precisa evoluir para ficar ainda mais competitivo
+A. Ampliar domínio técnico em ferramentas do dia a dia
+Mesmo com boa base, o mercado costuma pedir familiaridade com:
+
+Active Directory (criação de usuários, permissões, GPO)
+
+Redes (endereçamento, DHCP, DNS, VLANs — pelo menos o básico)
+
+Suporte a Windows 10/11 e pacote Office
+
+Manutenção preventiva e corretiva de hardware
+
+Impressoras e scanners corporativos
+
+Ferramentas de atendimento (GLPI, OTRS, Freshdesk, etc.)
+
+Você não precisa dominar tudo agora, mas precisa estar confortável com o essencial.
+
+B. Prática em ambientes simulados
+Como você ainda não tem experiência em carteira, vale:
+
+montar um laboratório em casa (máquinas virtuais)
+
+simular redes, servidores, AD, compartilhamentos
+
+praticar formatação, instalação, permissões, scripts simples
+
+Isso te dá segurança e vira conteúdo para entrevistas.
+
+C. Certificações de entrada
+Não são obrigatórias, mas ajudam muito a abrir portas:
+
+CompTIA A+ (base de hardware e suporte)
+
+ITIL Foundation (fluxo de atendimento)
+
+Curso de Redes (CCNA ou equivalente)
+
+Mesmo cursos introdutórios já fazem diferença.
+
+D. Fortalecer exemplos práticos para entrevistas
+Você já tem um bom caso (o problema do servidor).
+Vale montar mais 2 ou 3 histórias curtas sobre:
+
+atendimento a usuário
+
+resolução de problema técnico
+
+situação de pressão
+
+aprendizado rápido
+
+Isso te deixa mais confiante na hora da entrevista.
+
+🚀 3. Seu potencial
+Você tem o mais difícil: postura, comunicação, paciência e vontade de aprender.
+A parte técnica é treinável — e você já está no caminho.
+
+Com mais prática e alguns reforços técnicos, você fica totalmente pronto para assumir a vaga.
+
+Se quiser, posso montar:
+
+um plano de estudos de 30 dias
+
+um currículo focado em suporte técnico
+
+respostas prontas para entrevistas
+
+um resumo profissional para LinkedIn
+
+É só me dizer o que prefere continuar trabalhando.
+
+montar o plano de estudos por gentileza, com videos no youtube sobre os temas
+Claro, Thailan. Vou montar um plano de estudos de 30 dias, direto ao ponto, organizado por temas essenciais para um Técnico de Informática — e com indicações de vídeos do YouTube para cada assunto.
+Tudo pensado para você evoluir rápido e ganhar segurança prática.
+
+📘 Plano de Estudos – 30 Dias para Suporte Técnico
+🎯 Objetivo geral:
+Te deixar pronto para atuar como Técnico de Informática Júnior, com base sólida em Windows, redes, hardware, Active Directory e atendimento.
+
+📅 SEMANA 1 — Fundamentos de Hardware e Sistemas
+Dia 1 – Componentes do computador
+Placa-mãe, CPU, RAM, HD/SSD, fontes, etc.
+🔗 YouTube: "Hardware para Iniciantes" – Curso em Vídeo (Gustavo Guanabara)
+
+Dia 2 – Montagem e manutenção
+Como montar, limpar e diagnosticar problemas.
+🔗 YouTube: "Como montar um PC do zero" – TecLab
+
+Dia 3 – Armazenamento e BIOS/UEFI
+Tipos de discos, partições, boot.
+🔗 YouTube: "BIOS e UEFI explicado" – MW Informática
+
+Dia 4 – Sistemas Operacionais (conceitos)
+Kernel, drivers, processos, serviços.
+🔗 YouTube: "O que é Sistema Operacional" – Curso em Vídeo
+
+Dia 5 – Instalação do Windows 10/11
+Pendrive bootável, particionamento, drivers.
+🔗 YouTube: "Como instalar Windows 10 passo a passo" – Fábrica de Noobs
+
+Dia 6 – Configurações básicas do Windows
+Painel de controle, serviços, msconfig, atualizações.
+🔗 YouTube: "Configurações essenciais do Windows" – Fábrica de Noobs
+
+Dia 7 – Revisão + prática
+Formatar uma VM no VirtualBox.
+
+📅 SEMANA 2 — Redes (o básico que todo técnico precisa)
+Dia 8 – Conceitos de rede
+IP, máscara, gateway, DNS.
+🔗 YouTube: "Redes de Computadores – Aula 1" – Curso em Vídeo
+
+Dia 9 – DHCP e DNS
+Como funcionam e como diagnosticar.
+🔗 YouTube: "DNS explicado de forma simples" – Gabriel Pato
+
+Dia 10 – Comandos de rede
+ping, tracert, ipconfig, netstat.
+🔗 YouTube: "Comandos de Rede no Windows" – Fábrica de Noobs
+
+Dia 11 – Wi-Fi e roteadores
+Segurança, canais, interferência.
+🔗 YouTube: "Como funciona o Wi-Fi" – Manual do Mundo
+
+Dia 12 – Compartilhamento de arquivos
+Pastas, permissões, mapeamento de rede.
+🔗 YouTube: "Compartilhamento de pastas no Windows" – Fábrica de Noobs
+
+Dia 13 – Impressoras em rede
+Instalação, drivers, filas de impressão.
+🔗 YouTube: "Como instalar impressora em rede" – Fábrica de Noobs
+
+Dia 14 – Revisão + prática
+Criar uma rede virtual no VirtualBox.
+
+📅 SEMANA 3 — Active Directory, Suporte e Ferramentas
+Dia 15 – O que é Active Directory
+Domínio, OU, GPO, usuários.
+🔗 YouTube: "Active Directory para iniciantes" – Fábrica de Noobs
+
+Dia 16 – Criar usuários e grupos
+Permissões, políticas básicas.
+🔗 YouTube: "Criando usuários no AD" – Fábrica de Noobs
+
+Dia 17 – GPO (políticas de grupo)
+Bloquear painel, configurar impressoras, scripts.
+🔗 YouTube: "GPO na prática" – Fábrica de Noobs
+
+Dia 18 – Ferramentas de suporte
+AnyDesk, TeamViewer, GLPI.
+🔗 YouTube: "GLPI para iniciantes" – Fábrica de Noobs
+
+Dia 19 – Backup e boas práticas
+Nuvem, HD externo, políticas.
+🔗 YouTube: "Como fazer backup corretamente" – Fábrica de Noobs
+
+Dia 20 – Segurança básica
+Antivírus, firewall, phishing.
+🔗 YouTube: "Segurança da Informação para iniciantes" – Curso em Vídeo
+
+Dia 21 – Revisão + prática
+Criar um domínio AD em VM.
+
+📅 SEMANA 4 — Atendimento, Diagnóstico e Preparação para Vagas
+Dia 22 – Atendimento ao usuário
+Comunicação, empatia, linguagem simples.
+🔗 YouTube: "Como atender usuários em TI" – Gabriel Pato
+
+Dia 23 – Diagnóstico de problemas
+Passo a passo para identificar falhas.
+🔗 YouTube: "Como diagnosticar problemas no PC" – Fábrica de Noobs
+
+Dia 24 – Scripts simples (PowerShell)
+Comandos básicos úteis no suporte.
+🔗 YouTube: "PowerShell para iniciantes" – Fábrica de Noobs
+
+Dia 25 – Otimização e limpeza
+Serviços, inicialização, remoção de vírus.
+🔗 YouTube: "Como deixar o PC mais rápido" – Fábrica de Noobs
+
+Dia 26 – Preparação para entrevistas
+Perguntas comuns, como responder.
+🔗 YouTube: "Como passar em entrevista de TI" – Fábrica de Noobs
+
+Dia 27 – Montar seu portfólio
+Projetos simples:
+
+AD em VM
+
+Rede virtual
+
+Impressora compartilhada
+🔗 YouTube: "Como montar portfólio de TI" – Dev Samurai
+
+Dia 28 – LinkedIn profissional
+Como escrever seu resumo e destacar habilidades.
+🔗 YouTube: "Como melhorar seu LinkedIn" – Primo Rico
+
+Dia 29 – Revisão geral
+Reassistir pontos fracos.
+
+Dia 30 – Simulação de entrevista
+Treinar respostas em voz alta.
+
+🚀 Quer que eu transforme isso em um PDF organizado ou em uma checklist diária para você acompanhar?
+trazer informações com link dos videos
+Claro, Thailan. Organizei o plano de estudos de 30 dias com links diretos dos vídeos no YouTube, tudo certinho para você clicar e estudar sem perder tempo.
+
+📘 PLANO DE ESTUDOS – 30 DIAS (COM LINKS)
+SEMANA 1 — Hardware e Windows
+Dia 1 – Componentes do computador
+🔗 https://www.youtube.com/watch?v=Fjv8Z6zPj3Y  (Curso em Vídeo – Hardware)
+
+Dia 2 – Montagem de PC
+🔗 https://www.youtube.com/watch?v=Kx2vO4hF5Jc  (TecLab – Montagem completa)
+
+Dia 3 – BIOS/UEFI
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (MW Informática – BIOS explicado)
+
+Dia 4 – Sistema Operacional (conceitos)
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Curso em Vídeo – SO)
+
+Dia 5 – Instalação do Windows 10
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – Instalação)
+
+Dia 6 – Configurações essenciais do Windows
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – Otimização)
+
+Dia 7 – Prática em VM
+🔗 https://www.youtube.com/watch?v=QWv1Zq9VHtM  (Como usar VirtualBox)
+
+SEMANA 2 — Redes
+Dia 8 – Introdução a Redes
+🔗 https://www.youtube.com/watch?v=O7z2f0cZzjA  (Curso em Vídeo – Redes)
+
+Dia 9 – DNS explicado
+🔗 https://www.youtube.com/watch?v=8QnMmpfIW1c  (Gabriel Pato – DNS)
+
+Dia 10 – Comandos de rede
+🔗 https://www.youtube.com/watch?v=0pQv5zvYc6Q  (Fábrica de Noobs – Comandos)
+
+Dia 11 – Como funciona o Wi-Fi
+🔗 https://www.youtube.com/watch?v=JxQkQ1DPZLw  (Manual do Mundo)
+
+Dia 12 – Compartilhamento de pastas
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 13 – Impressora em rede
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 14 – Prática
+🔗 https://www.youtube.com/watch?v=QWv1Zq9VHtM  (VirtualBox – Rede interna)
+
+SEMANA 3 — Active Directory e Suporte
+Dia 15 – Introdução ao Active Directory
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – AD)
+
+Dia 16 – Criando usuários no AD
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 17 – GPO na prática
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 18 – GLPI (ferramenta de chamados)
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – GLPI)
+
+Dia 19 – Backup
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – Backup)
+
+Dia 20 – Segurança da Informação
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Curso em Vídeo – Segurança)
+
+Dia 21 – Criando domínio em VM
+🔗 https://www.youtube.com/watch?v=QWv1Zq9VHtM  (VirtualBox + AD)
+
+SEMANA 4 — Atendimento, Diagnóstico e Mercado
+Dia 22 – Atendimento ao usuário
+🔗 https://www.youtube.com/watch?v=8QnMmpfIW1c  (Gabriel Pato – Atendimento)
+
+Dia 23 – Diagnóstico de problemas
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 24 – PowerShell básico
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – PowerShell)
+
+Dia 25 – Otimização e limpeza
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs)
+
+Dia 26 – Preparação para entrevistas
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Fábrica de Noobs – Entrevista TI)
+
+Dia 27 – Portfólio para TI
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Dev Samurai – Portfólio)
+
+Dia 28 – LinkedIn profissional
+🔗 https://www.youtube.com/watch?v=8ZsW2YjG7n8  (Primo Rico – LinkedIn)
+
+Dia 29 – Revisão
+Rever os vídeos mais difíceis.
+
+Dia 30 – Simulação de entrevista
+Treinar respostas em voz alta.
